@@ -14,7 +14,7 @@ import java.util.PriorityQueue;
 
 // TODO: Name and Pledge
 
-// Pledge: I pledge my honor that I have abided by the Stevens Honor System - Aparajita Rana
+// Pledge: I pledge my honor that I have abided by the Stevens Honor System
 // Name: Aparajita Rana
 
 
