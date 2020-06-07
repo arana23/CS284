@@ -1,12 +1,12 @@
 //I pledge my honor that I have abided by the Stevens Honor System - Aparajita Rana
-// arana3- Aparajita Rana
+
 package general;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class IDLListTestt {
+class IDLListTest {
 
 	@Test
 	void testin() {
